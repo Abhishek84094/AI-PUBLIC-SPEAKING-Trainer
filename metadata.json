@@ -1,0 +1,8 @@
+{
+  "name": "SpeakMate AI Coach",
+  "description": "Your adaptive real-time public speaking companion. SpeakMate tracks your progress and tailors coaching to your unique journey.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
